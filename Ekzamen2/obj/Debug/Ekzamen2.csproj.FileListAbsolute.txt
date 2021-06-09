@@ -1,0 +1,14 @@
+C:\Users\Матвей\source\repos\Ekzamen2\Ekzamen2\bin\Debug\Ekzamen2.exe.config
+C:\Users\Матвей\source\repos\Ekzamen2\Ekzamen2\bin\Debug\Ekzamen2.exe
+C:\Users\Матвей\source\repos\Ekzamen2\Ekzamen2\bin\Debug\Ekzamen2.pdb
+C:\Users\Матвей\source\repos\Ekzamen2\Ekzamen2\obj\Debug\Ekzamen2.csprojAssemblyReference.cache
+C:\Users\Матвей\source\repos\Ekzamen2\Ekzamen2\obj\Debug\Ekzamen2.csproj.CoreCompileInputs.cache
+C:\Users\Матвей\source\repos\Ekzamen2\Ekzamen2\obj\Debug\Ekzamen2.exe
+C:\Users\Матвей\source\repos\Ekzamen2\Ekzamen2\obj\Debug\Ekzamen2.pdb
+C:\Users\mark2\Desktop\vs\Ekzamen2\bin\Debug\Ekzamen2.exe.config
+C:\Users\mark2\Desktop\vs\Ekzamen2\bin\Debug\Ekzamen2.exe
+C:\Users\mark2\Desktop\vs\Ekzamen2\bin\Debug\Ekzamen2.pdb
+C:\Users\mark2\Desktop\vs\Ekzamen2\obj\Debug\Ekzamen2.csprojAssemblyReference.cache
+C:\Users\mark2\Desktop\vs\Ekzamen2\obj\Debug\Ekzamen2.csproj.CoreCompileInputs.cache
+C:\Users\mark2\Desktop\vs\Ekzamen2\obj\Debug\Ekzamen2.exe
+C:\Users\mark2\Desktop\vs\Ekzamen2\obj\Debug\Ekzamen2.pdb
